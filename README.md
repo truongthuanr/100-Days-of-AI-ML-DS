@@ -4,3 +4,4 @@
 
 ### Backlog
 - Python Machine Learning by Example - https://www.packtpub.com/free-ebooks/big-data-and-business-intelligence/python-machine-learning-example/9781783553112
+- NLP with Python - https://www.udemy.com/course/nlp-natural-language-processing-with-python/
