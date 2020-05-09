@@ -1,4 +1,10 @@
-### 05/04/2020 Monday (Day 1)
+#### 05/09/2020 Saturday (Day 3)
+- Even More Python for Beginners (from MS) - https://www.youtube.com/watch?v=hGP7tPS_Q8c
+- Scikit Learn
+#### 05/06/2020 Wednesday (Day 2)
+- Even More Python for Beginners (from MS) - https://www.youtube.com/watch?v=hGP7tPS_Q8c
+- Panda Dataframes - Read from CSV, Splitting, Handling duplicate rows
+#### 05/04/2020 Monday (Day 1)
 - Even More Python for Beginners (from MS) - https://www.youtube.com/watch?v=hGP7tPS_Q8c
 
 ### Backlog
