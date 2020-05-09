@@ -12,6 +12,8 @@
 - Real World NLP - https://www.manning.com/books/real-world-natural-language-processing
 - Hands-On Natural Language Processing with Python - [https://www.packtpub.com/free-ebooks/big-data-and-business-intelligence/hands-natural-language-processing-python](https://www.packtpub.com/free-ebooks/big-data-and-business-intelligence/hands-natural-language-processing-python/9781789139495?utm_source=dzone.com&utm_medium=referral&utm_campaign=OutreachB10499Dollar5)
 - Hugging Face HTML - One NLP to rule them all - https://medium.com/huggingface/beating-the-state-of-the-art-in-nlp-with-hmtl-b4e1d5c3faf
+- Experience Grounds Language - https://arxiv.org/abs/2004.10151
+  - https://twitter.com/universeinanegg/status/1252762166823804928
 
 #### More ML
 - Dive into Deep Learning - https://d2l.ai/index.html
