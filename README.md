@@ -5,6 +5,8 @@
   - Categorical encoding with one-hot encoding and Label encoding
   - Splitting data
   - Feature Scaling or Data Normalization
+- Regression
+  - Simple Linear Regression
 
 #### 05/09/2020 Saturday (Day 3)
 - Even More Python for Beginners (from MS) - https://www.youtube.com/watch?v=hGP7tPS_Q8c
