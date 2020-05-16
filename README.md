@@ -21,6 +21,9 @@
 - Experience Grounds Language - https://arxiv.org/abs/2004.10151
   - https://twitter.com/universeinanegg/status/1252762166823804928
 
+#### DataScience
+- OpenSafely data - https://opensafely.org/outputs/2020/05/covid-risk-factors/ - Risk factors for COVID-19 death revealed in world’s largest analysis of patient records to date.
+
 #### More ML
 - Dive into Deep Learning - https://d2l.ai/index.html
 - Mathematics of Machine Learning - https://mml-book.github.io/book/mml-book_printed.pdf
