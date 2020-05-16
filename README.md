@@ -1,11 +1,10 @@
-#### 05/09/2020 Saturday (Day 3)
-- Even More Python for Beginners (from MS) - https://www.youtube.com/watch?v=hGP7tPS_Q8c
-- Scikit Learn, Numpy, Matplotlib
-#### 05/06/2020 Wednesday (Day 2)
-- Even More Python for Beginners (from MS) - https://www.youtube.com/watch?v=hGP7tPS_Q8c
-- Panda Dataframes - Read from CSV, Splitting, Handling duplicate rows
-#### 05/04/2020 Monday (Day 1)
-- Even More Python for Beginners (from MS) - https://www.youtube.com/watch?v=hGP7tPS_Q8c
+### 100 Days of ML
+#### 05/16/2020 Saturday (Day 4)
+- Udemy - Machine Learning A-Z
+- Data Preprocessing using Scikit-Learn
+  - Categorical encoding with one-hot encoding and Label encoding
+  - Splitting data
+  - Feature Scaling or Data Normalization
 
 ### Backlog
 #### ML
@@ -27,3 +26,13 @@
 #### More ML
 - Dive into Deep Learning - https://d2l.ai/index.html
 - Mathematics of Machine Learning - https://mml-book.github.io/book/mml-book_printed.pdf
+#### 05/09/2020 Saturday (Day 3)
+- Even More Python for Beginners (from MS) - https://www.youtube.com/watch?v=hGP7tPS_Q8c
+- Scikit Learn, Numpy, Matplotlib
+#### 05/06/2020 Wednesday (Day 2)
+- Even More Python for Beginners (from MS) - https://www.youtube.com/watch?v=hGP7tPS_Q8c
+- Panda Dataframes - Read from CSV, Splitting, Handling duplicate rows
+#### 05/04/2020 Monday (Day 1)
+- Even More Python for Beginners (from MS) - https://www.youtube.com/watch?v=hGP7tPS_Q8c
+
+
