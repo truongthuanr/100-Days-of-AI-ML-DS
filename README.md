@@ -1,4 +1,9 @@
 ### 100 Days of ML
+#### 05/17/2020 Sunday (Day 5)
+- Udemy - Machine Learning A-Z
+- Regression
+  - Multiple Linear Regression
+  
 #### 05/16/2020 Saturday (Day 4)
 - Udemy - Machine Learning A-Z
 - Data Preprocessing using Scikit-Learn
