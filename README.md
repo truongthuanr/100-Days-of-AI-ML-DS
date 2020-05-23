@@ -1,4 +1,10 @@
 ### 100 Days of ML
+
+#### 05/23/2020 Sunday (Day 7)
+- Udemy - Machine Learning A-Z
+- Regression
+  - Polynomial Linear Regression
+
 #### 05/17/2020 Sunday (Day 5)
 - Udemy - Machine Learning A-Z
 - Regression
