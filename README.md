@@ -1,9 +1,9 @@
 ### 100 Days of ML
 
-#### 05/23/2020 Sunday (Day 7)
+#### 05/23/2020 Saturday (Day 7)
 - Udemy - Machine Learning A-Z
 - Regression
-  - Polynomial Linear Regression
+  - Polynomial Regression, PolynomialFeatures(degree=4), .fit_transform()
 
 #### 05/17/2020 Sunday (Day 5)
 - Udemy - Machine Learning A-Z
