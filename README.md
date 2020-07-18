@@ -4,6 +4,8 @@
 - Udemy - Machine Learning A-Z
 - Went through ML block of training - Models in Regression and Classification, RNN and NLP
 - RNN and NLP is pretty introductory. Need to take specialized.
+- Hands-On - https://machinelearningmastery.com/create-custom-data-transforms-for-scikit-learn/
+
 #### 05/23/2020 Saturday (Day 7)
 - Udemy - Machine Learning A-Z
 - Regression
