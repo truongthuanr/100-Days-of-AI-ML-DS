@@ -36,6 +36,9 @@
 ## Backlog
 #### Hands on
 - https://www.datasciencecentral.com/profiles/blogs/building-an-intelligent-qa-system-with-nlp-and-milvus
+- Titanic Data set - https://www.kaggle.com/c/titanic
+  - Work on using classification and regression models and identify performance
+  - Use Udemy training AI/ML A-Z
 
 #### ML
 - Kaggle - https://www.kaggle.com/learn/overview
