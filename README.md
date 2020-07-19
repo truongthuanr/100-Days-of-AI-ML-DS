@@ -6,7 +6,7 @@
 - RNN and NLP is pretty introductory. Need to take specialized.
 - Hands-On - https://machinelearningmastery.com/create-custom-data-transforms-for-scikit-learn/
 
-#### 06/07/2020 Sunday (Day 10)
+#### 06/07/2020 Sunday (Day 11)
 - Udemy - Machine Learning A-Z
 - Regression - Support Vector Regression
 
