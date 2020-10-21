@@ -54,6 +54,10 @@
 - Titanic Data set - https://www.kaggle.com/c/titanic
   - Work on using classification and regression models and identify performance
   - Use Udemy training AI/ML A-Z
+ 
+#### Papers
+- Nov - https://github.com/mlech26l/keras-ncp/ - Neural Circuit Policies Enabling Auditable Autonomy - https://techxplore.com/news/2020-10-deep-neurons-intelligence.html
+- Dec - https://arxiv.org/abs/2009.08449 - https://www.technologyreview.com/2020/10/16/1010566/ai-machine-learning-with-tiny-data/
 
 #### ML
 - Kaggle - https://www.kaggle.com/learn/overview
