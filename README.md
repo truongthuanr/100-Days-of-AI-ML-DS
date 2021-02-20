@@ -1,9 +1,9 @@
 ## 100 Days of ML
 
 #### 02/20/2021 Saturday (Day 1)
-- JohnSnow NLP Webinar - https://www.youtube.com/watch?v=hJR9m3NYnwk
-  - https://github.com/JohnSnowLabs/nlu
+- JohnSnow NYC DC NLP Meetup - https://www.youtube.com/watch?v=hJR9m3NYnwk
   - https://github.com/JohnSnowLabs/nlu/tree/master/examples/webinars_conferences_etc/NYC_DC_NLP_MEETUP
+  - https://github.com/JohnSnowLabs/nlu
   
 #### 07/18/2020 Saturday (Day ~30)
 - Udemy - Machine Learning A-Z
