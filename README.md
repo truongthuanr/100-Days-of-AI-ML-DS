@@ -1,6 +1,12 @@
 ## 100 Days of ML
 
-#### 03/19/2021 Saturday (Day 1)
+#### 04/02/2021 Thu (Day 2)
+- Meetup - Deeplearning adventures - https://www.youtube.com/watch?v=DStoSdw7338 - Kaggle Course Geospatial analysis - https://www.kaggle.com/peretzcohen/us-vaccine-tracker - Copy (https://www.kaggle.com/roadrunner0/us-vaccine-tracker-copy-from-kaggle-course)
+- New things learned
+  - Python String Intrapolation - https://realpython.com/python-string-formatting/ (See #3), https://www.python.org/dev/peps/pep-0498/
+  - Map Visualizations using Folium - https://python-visualization.github.io/folium/
+
+#### 04/01/2021 Thu (Day 1)
 - Spacy - Install, setup and Intro
   
 #### 07/18/2020 Saturday (Day ~30)
