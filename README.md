@@ -1,6 +1,13 @@
 ## 100 Days of ML
 
-#### 04/02/2021 Thu (Day 2)
+#### 04/15/2021 Thu (Day 3)
+- Now that you learned Python, how do you organize code? What are the best practices like Java?
+- Object Oriented Programming - Classes, Instances - https://realpython.com/python3-object-oriented-programming/
+- Organizing Code - Packages and Modules - https://towardsdatascience.com/learn-python-modules-and-packages-in-5-minutes-bbdfbf16484e
+- New things learned
+  - String version of class - `__str__`
+
+#### 04/02/2021 Fri (Day 2)
 - Meetup - Deeplearning adventures - https://www.youtube.com/watch?v=DStoSdw7338 - Kaggle Course Geospatial analysis - https://www.kaggle.com/peretzcohen/us-vaccine-tracker - Copy (https://www.kaggle.com/roadrunner0/us-vaccine-tracker-copy-from-kaggle-course)
 - New things learned
   - Python String Intrapolation - https://realpython.com/python-string-formatting/ (See #3), https://www.python.org/dev/peps/pep-0498/
