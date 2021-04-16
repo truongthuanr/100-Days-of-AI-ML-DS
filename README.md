@@ -1,5 +1,11 @@
 ## 100 Days of ML
 
+#### 04/16/2021 Fri (Day 4)
+- Organizing Python code - Continued from previous day
+- Python Packages and Modules - https://realpython.com/python-modules-packages. Wonderful and simple explanation.
+- New things learned
+  - To add support for `from <package> import *`, use `__all__ = ['mod1', 'mod2'..]`, in `__init.py__` file.
+
 #### 04/15/2021 Thu (Day 3)
 - Now that you learned Python, how do you organize code? What are the best practices like Java?
 - Object Oriented Programming - Classes, Instances - https://realpython.com/python3-object-oriented-programming/
