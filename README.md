@@ -1,5 +1,36 @@
 ## 100 Days of ML
 
+#### 04/25/2021 Sun (Day 5)
+ML Ops Community site has nicely curated content. https://mlops.community/. Below is their latest newsletter - 
+https://autodb.activehosted.com/index.php?action=social&chash=6974ce5ac660610b44d9b9fed0ff9548.122&s=30a202ca5addb3aecc7727a23287b37f
+
+One of the recent ML Ops Community Meetup is with Guest Speaker Daniel Stahl, Model Platforms Manager at Regions Bank - "Operationalizing Machine Learning at a Large Financial Institution" - https://www.youtube.com/watch?v=vrvagiFVzI4
+
+TL;DR (Just first 12 mins of video :)
+- Regions Bank 
+	- Not really using latest and greatest tech stack
+
+- Stack 
+	On Prem Hadoop based DataLake - Serves as underpinning for all Analytics
+	Cloudera DataScience WorkBench - Way to interact with DataLake
+	Jupyter Notebook - Simple and familiar IDE to connect and interact with Big Data cluster
+	Apache Spark - Data Engineering, Model Training
+	Dev Ops 
+	- BitBucket for GIT version control
+	- Bamboo for CI/CD
+	
+- Went with the metality that conceptually both Software dev and ML training are similar (10:00min), with the assumption that ML has additional complexities like large data volume and computational need. (Per speaker not many accept this, but he still feels this works)
+	- Training Pipeline - Takes Feature engineering/model code and outputs a trained model (pikcle serialized object or other object. What is Pickle?? More on this later).
+	- Scoring Pipeline - Takes Model and creates predictions
+	- Monitoring Pipeline - Compare Training and Scoring Pipeline prediction performance
+	
+	
+Phew!!! thats first 12 mins of video. More later.
+
+Me: Trying to consume ML info. How hard can it be?
+What is really needed to be consumed: https://images.app.goo.gl/RTQJLnYAuZJH49VEA
+
+
 #### 04/16/2021 Fri (Day 4)
 - Organizing Python code - Continued from previous day
 - Python Packages and Modules - https://realpython.com/python-modules-packages. Wonderful and simple explanation.
