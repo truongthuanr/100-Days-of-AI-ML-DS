@@ -27,7 +27,7 @@ TL;DR (Just first 12 mins of video :)
 	
 Phew!!! thats first 12 mins of video. More later.
 
-Me: Trying to consume ML info. How hard can it be?
+Me: Trying to consume ML info. How hard can it be? <br>
 What is really needed to be consumed: https://images.app.goo.gl/RTQJLnYAuZJH49VEA
 
 
