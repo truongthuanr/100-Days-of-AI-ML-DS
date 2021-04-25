@@ -8,7 +8,7 @@ One of the recent ML Ops Community Meetup is with Guest Speaker Daniel Stahl, Mo
 
 TL;DR (Just first 12 mins of video :)
 - Regions Bank 
-	- Not really using latest and greatest tech stack
+	- Not really using latest and greatest tech stack, but still getting high deployment success rate.
 
 - Stack 
 	On Prem Hadoop based DataLake - Serves as underpinning for all Analytics
