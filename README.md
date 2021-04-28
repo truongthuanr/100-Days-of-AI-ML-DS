@@ -1,5 +1,9 @@
 ## 100 Days of ML
 
+#### 04/28/2021 Wed (Day 6)
+Spacy Tutorial Chap 1
+- Basics of Spacy, Pattern Matching
+
 #### 04/25/2021 Sun (Day 5)
 ML Ops Community site has nicely curated content. https://mlops.community/. Below is their latest newsletter - 
 https://autodb.activehosted.com/index.php?action=social&chash=6974ce5ac660610b44d9b9fed0ff9548.122&s=30a202ca5addb3aecc7727a23287b37f
