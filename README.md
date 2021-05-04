@@ -1,5 +1,10 @@
 ## 100 Days of ML
 
+#### 05/04/2021 Tue (Day 7)
+Spacy Tutorial Chap 2
+- Lexems, Vocab, Hash
+- `lexem = nlp.vocab["a string"]`
+
 #### 04/28/2021 Wed (Day 6)
 Spacy Tutorial Chap 1
 - Basics of Spacy, Pattern Matching
