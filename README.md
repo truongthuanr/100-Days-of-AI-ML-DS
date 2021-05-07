@@ -1,5 +1,10 @@
 ## 100 Days of ML
 
+#### 05/07/2021 Fri (Day 8)
+ML Ops 
+- Set up Git Repo for notes
+- Set up ClearML to evaluate
+
 #### 05/04/2021 Tue (Day 7)
 Spacy Tutorial Chap 2
 - Lexems, Vocab, Hash
