@@ -1,5 +1,11 @@
 ## 100 Days of ML
 
+#### 05/09/2021 Sun (Day 9)
+A Chat with Andrew on MLOps: From Model-centric to Data-centric AI 
+- Improve quality of data rather than focusing on solely on model.
+- While improving data, make sure labelers follow consistent labelling to get most out of the model. In below example one labeler labeled bounding box around each defect, whereas other labeler grouped them. This will confuse the model. Better approach is to identify these problems with labelers and have consistency across.
+- ML Ops plays key role in ML project lifecycle - MLOps tools to make data-centric ai an efficient and systamatic process.
+
 #### 05/07/2021 Fri (Day 8)
 ML Ops 
 - Set up Git Repo for notes
