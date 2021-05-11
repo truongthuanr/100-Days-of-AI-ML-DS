@@ -1,5 +1,9 @@
 ## 100 Days of ML
 
+#### 05/11/2021 Sun (Day 10)
+Continue with reviewing discussion analysis of Kaggle competition - CommonLit Readability prize.
+- https://www.kaggle.com/ravishah1/readability-feature-engineering-non-nn-baseline
+
 #### 05/09/2021 Sun (Day 9)
 A Chat with Andrew on MLOps: From Model-centric to Data-centric AI 
 - Improve quality of data rather than focusing on solely on model.
