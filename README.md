@@ -1,5 +1,9 @@
 ## 100 Days of ML
 
+#### 07/07/2021 Wed (Day 11)
+Spacy NLP Tutotorial
+https://www.machinelearningplus.com/spacy-tutorial-nlp/
+
 #### 05/11/2021 Sun (Day 10)
 Continue with reviewing discussion analysis of Kaggle competition - CommonLit Readability prize.
 - https://www.kaggle.com/ravishah1/readability-feature-engineering-non-nn-baseline
